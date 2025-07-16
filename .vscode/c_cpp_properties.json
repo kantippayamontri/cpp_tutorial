@@ -1,14 +1,23 @@
 {
     "configurations": [
         {
+<<<<<<< HEAD
             "name": "Linux",
+=======
+            "name": "Mac",
+>>>>>>> 4e65e74b9ce52e2011aac9ee9d671312f67cacfc
             "includePath": [
                 "${workspaceFolder}/**"
             ],
             "defines": [],
             "cStandard": "c17",
+<<<<<<< HEAD
             "cppStandard": "c++17",
             "intelliSenseMode": "linux-clang-x64",
+=======
+            "cppStandard": "c++14",
+            "intelliSenseMode": "macos-clang-arm64",
+>>>>>>> 4e65e74b9ce52e2011aac9ee9d671312f67cacfc
             "compilerPath": "/usr/bin/clang++"
         }
     ],
